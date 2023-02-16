@@ -36,5 +36,5 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![kss7082 GitHub stats](https://github-readme-stats.vercel.app/api?username=kss7082&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![kss7082 GitHub stats](https://github-readme-stats.vercel.app/api?username=kss7082&hide_title=true&show_icons=true&include_all_commits=false&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
